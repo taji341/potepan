@@ -69,6 +69,10 @@ a {
   height: 40px;
 }
 
+.header_nav_button:hover {
+  opacity: .8;
+}
+
 .header_nav_button span {
   color: white;
   font-size: 12px;
@@ -135,6 +139,10 @@ img {
   justify-content: center;
   text-align: center;
   width: 100%;
+}
+
+.button_a:hover {
+  opacity: .8;
 }
 
 .button_b {
